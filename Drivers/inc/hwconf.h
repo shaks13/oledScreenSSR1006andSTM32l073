@@ -1,8 +1,7 @@
 /*
- * hwconf.h
- *
- *  Created on: Mar 8, 2020
- *      Author: thmet
+ * @file hwconf.h
+ * @date Mar 8, 2020
+ * @author: Embedded Software Team
  */
 
 #ifndef INC_HWCONF_H_
